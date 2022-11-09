@@ -4877,7 +4877,7 @@ sup {
     font-size: 20px;
     display: block;
     line-height: 1;
-    color: #008080;
+    color: #fff;
     margin-top: 10px
 }
 
@@ -4930,7 +4930,7 @@ sup {
 .header-icons .icon:active,
 .header-icons .icon:hover {
     color: #1a222c;
-    background: rgb(255, 255, 255)
+    background: rgb(100, 100, 100)
 }
 
 @media only screen and (min-width:550px) {
