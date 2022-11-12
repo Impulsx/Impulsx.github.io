@@ -4836,15 +4836,15 @@ sup {
     display: flex;
     vertical-align: bottom;
     width: 100%;
-    min-height: 100%; /* 100vh; */
-    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-repeat: repeat; /* no-repeat; */
     background-size: cover;
     background-attachment: fixed
 }
 
 #particles-js .particles-js-canvas-el {
     width: 100% !important;
-    height: 100% !important; /* 100vh !important; */
+    height: 100vh !important;
 }
 
 .header {
