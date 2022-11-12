@@ -1,6 +1,6 @@
 # Build settings
 # markdown: kramdown
-# remote_theme: nrandecker/particle
+remote_theme: nrandecker/particle
 
 # Site settings
 title: Impulsx.github.io
