@@ -9,7 +9,7 @@ html {
 
 body {
     margin: 0;
-    background: #000;
+    background: content-box radial-gradient(rgb(68, 68, 68), #00000000);
     background-color: #000;
 }
 
