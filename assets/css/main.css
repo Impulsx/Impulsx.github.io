@@ -4850,7 +4850,7 @@ sup {
 .header {
     z-index: 1;
     text-align: center;
-    color: rgb(160, 160, 160);
+    color: #505050;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -5111,7 +5111,7 @@ body {
     padding: 10px 0;
     margin-top: 100px;
     text-align: center;
-    color: #fff
+    color: #008080
 }
 
 .footer .love {
