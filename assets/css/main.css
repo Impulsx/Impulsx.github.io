@@ -4768,7 +4768,7 @@ body {
     padding: 0;
     font-size: 100%;
     line-height: 1.5;
-    color: #555;
+    color: #000000;
     font-family: 'Montserrat', sans-serif
 }
 
@@ -4863,7 +4863,7 @@ sup {
     font-size: 50px;
     display: block;
     line-height: 1;
-    color: #fff
+    color: #505050
 }
 
 @media only screen and (min-width:550px) {
@@ -4877,7 +4877,7 @@ sup {
     font-size: 20px;
     display: block;
     line-height: 1;
-    color: #fff;
+    color: #008080;
     margin-top: 10px
 }
 
@@ -4892,7 +4892,7 @@ sup {
 }
 
 .header-links .link {
-    color: #fff;
+    color: #757575;
     text-decoration: none;
     font-size: 15px;
     margin: 10px
@@ -5102,7 +5102,7 @@ body {
 .project-link:hover {
     background-color: #54516a;
     border-color: #54516a;
-    color: #fff;
+    color: #999999;
     transition: color .3s ease-in, background-color .3s ease-in, border-color .3s ease-in
 }
 
