@@ -1,18 +1,18 @@
 # Build settings
-markdown: kramdown
-remote_theme: nrandecker/particle
+# markdown: kramdown
+# remote_theme: nrandecker/particle
 
 # Site settings
 title: Impulsx.github.io
 description: uwu page
-# baseurl: "/Impulsx.github.io" # the subpath of your site, e.g. /blog/
-url: "Impulsx.github.io"
+baseurl: "/Impulsx.github.io" # the subpath of your site, e.g. /blog/
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
+url: "Impulsx.github.io"
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Impulsx
-user_description: uwu page
+user_description: uwu
 user_title: Useless, Worthless, and a PoS
 email: "[REDACTED]"
 # twitter_username: lorem_ipsum
