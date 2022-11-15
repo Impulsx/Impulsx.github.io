@@ -10,8 +10,10 @@ html {
 body {
     margin: 0;
     /* background: radial-gradient(#00000000, #444444); */
-    background: content-box radial-gradient(#444444, rgba(0, 0, 0, 0),);
-    background-color: #000;
+    background: content-box radial-gradient(rgba(68, 68, 68, 0.900), rgba(0, 0, 0, 0));
+    /* background-color: #000; */
+    background-color: radial-gradient(rgba(68, 68, 68, 0.900), rgba(0, 0, 0, 0));
+
 }
 
 article,
